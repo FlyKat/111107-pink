@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Екатерина Давлятчина](https://up.htmlacademy.ru/adaptive/12/user/111107).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
